@@ -1,0 +1,13 @@
+{
+  "name": "tentacular",
+  "version": "1.0.0",
+  "author": "Guilherme Prá Vieira (super.driver.512@gmail.com)",
+  "license": "AGPL-3.0+",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "http-proxy": "^1.16.2",
+    "node-fetch": "^2.1.2",
+    "qs": "^6.5.1"
+  }
+}
